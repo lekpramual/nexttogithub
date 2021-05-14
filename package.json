@@ -2,7 +2,7 @@
   "name": "main",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://herosony.github.io",
+  "homepage": "https://lekpramual.github.io",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
